@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/demoScene_free 1.unity
+    guid: 13a13b33bd9f0b0448c4d400f78537cf
+  - enabled: 1
+    path: Assets/HaogesFolder/Fantasy Forest Environment Free Sample/Scenes/demoScene_free.unity
+    guid: 7769f33fb4fa2e5458344a36556ad760
+  - enabled: 1
+    path: Assets/JiahangsFolder/SimpleNaturePack/Scenes/SimpleNaturePack_Demo.unity
+    guid: 5e7af4bd95ac53a4cb784a9eedf8f6f9
+  - enabled: 1
+    path: Assets/MuchuansFloder/RPGPP_LT/Scene/rpgpp_lt_scene_1.0.unity
+    guid: d2809ab9b90eea7419d8d90d4c505d35
+  - enabled: 1
+    path: Assets/ZengkaisFolder/SimpleLowPolyNature/Scenes/DemoDay.unity
+    guid: 304a5748b784bc241be3c08d67013b21
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: f93aceb9dd5c2d848b03f2dce6f71f5c
   m_configObjects: {}
